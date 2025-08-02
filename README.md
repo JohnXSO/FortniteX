@@ -66,12 +66,6 @@ This tool works externally, meaning **no modification of Fortnite files or injec
 
 ---
 
-## ❗ Disclaimer
-
-This tool is provided **strictly for educational and testing purposes**. It does not modify game files and operates externally. The user assumes all responsibility for usage. By downloading, you agree to use this only in private environments or for development insight.
-
----
-
 ## ⭐ Stay Connected
 
 Follow updates, changelogs, and compatibility notices by bookmarking this repository or joining the private newsletter (optional on first launch).
@@ -81,3 +75,4 @@ Follow updates, changelogs, and compatibility notices by bookmarking this reposi
 **Enjoy better control and awareness on the battlefield.**  
 **Keep it fair. Stay smart. Play better.**
  
+UNDETECTED 02.08.2025
